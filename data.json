@@ -1,0 +1,1167 @@
+{
+  "greetings start": {
+    "patterns": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good evening",
+      "hello cucek",
+      "greetings",
+      "hi there",
+      "cucek",
+      "hey cucek",
+      "hi AI",
+      "hey there",
+      "good day",
+      "namaste"
+    ],
+    "responses": [
+      "Hello! Welcome to Cochin University College of Engineering Kuttanad (CUCEK).",
+      "Hi there! How can I help you with information about CUCEK?",
+      "Hey! Looking for details about CUCEK? Ask me!",
+      "Namaste! How can I assist you today regarding CUCEK?"
+    ]
+  },
+  "details about cucek": {
+    "patterns": [
+      "How is Cucek",
+      "Details about Cucek",
+      "Why should I join CUCEK",
+      "speciality of cucek",
+      "what's unique about cucek",
+      "tell me about cucek",
+      "how is CUCEK different from SOE",
+      "CUCEK vs SOE",
+      "what is CUCEK",
+      "is cucek good",
+      "how good is cucek"
+    ],
+    "responses": [
+      "CUCEK is the rural engineering campus under Cochin University. It is located in a peaceful and pollution-free environment.",
+      "CUCEK offers engineering disciplines like CSE, ECE, IT, Civil, and EEE, along with MCA and Fisheries departments. The serene location and dedicated faculty make it a great place to learn.",
+      "CUCEK stands out for its lush green campus, academic atmosphere, and close-knit student community. Check the official website for more insights."
+    ]
+  },
+  "greetings end": {
+    "patterns": [
+      "bye",
+      "goodbye",
+      "see you",
+      "take care",
+      "thank you",
+      "thanks",
+      "good day",
+      "talk to you later",
+      "catch you later"
+    ],
+    "responses": [
+      "Goodbye! If you have more questions about CUCEK in the future, feel free to ask.",
+      "See you later. Have a great day ahead!",
+      "Thanks for chatting! If you need more CUCEK info, I’m here to help.",
+      "Take care! Looking forward to helping you again soon."
+    ]
+  },
+  "admission_btech": {
+    "patterns": [
+      "how to get btech admission",
+      "btech admission process",
+      "CUCEK btech admission details",
+      "btech entry requirements",
+      "CUSAT CAT exam for btech",
+      "CUSAT CAT exam for btech lateral entry",
+      "CUCEK engineering admission",
+      "B.Tech admission through CUSAT",
+      "entrance for btech",
+      "how to join cucek"
+    ],
+    "responses": [
+      "For B.Tech admission at CUCEK, you must qualify in the Common Admission Test (CAT) conducted by CUSAT, Kerala.",
+      "CUCEK B.Tech admissions are based on your CAT exam rank. Visit admissions.cusat.ac.in for detailed information and the prospectus.",
+      "To join CUCEK's B.Tech programs, ensure you qualify in CUSAT CAT and follow the counseling schedule on the CUSAT website."
+    ]
+  },
+  "admission_btech_lateral_entry": {
+    "patterns": [
+      "how to get btech lateral entry admission",
+      "btech lateral entry admission process",
+      "CUCEK btech lateral entry admission details",
+      "btech lateral entry requirements",
+      "cusat cat for btech lateral entry",
+      "cat exam for btech lateral entry",
+      "lateral entry in CUCEK"
+    ],
+    "responses": [
+      "CUCEK admits diploma holders into B.Tech through the lateral entry scheme via CUSAT CAT. Visit admissions.cusat.ac.in for eligibility and updates.",
+      "To apply for lateral entry into CUCEK, prepare for the CUSAT CAT exam. The official website provides application timelines and eligibility criteria.",
+      "For lateral entry, diploma students must appear for CAT conducted by CUSAT. Regularly check the CUSAT website for updates and deadlines."
+    ]
+  },
+  "admission_mca": {
+    "patterns": [
+      "how to get MCA admission",
+      "MCA admission process",
+      "CUCEK MCA admission details",
+      "MCA entry requirements",
+      "CUSAT CAT for MCA",
+      "MCA eligibility",
+      "PG in computer at CUCEK",
+      "join mca in cucek",
+      "mca in cucek"
+    ],
+    "responses": [
+      "MCA admissions at CUCEK are through the CUSAT CAT exam. Visit cusat.ac.in for the MCA prospectus and eligibility details.",
+      "To join MCA at CUCEK, a valid CAT score is required. Make sure to check the CUSAT website for deadlines and admission notifications.",
+      "Prepare for CUSAT CAT if you want to pursue MCA at CUCEK. Eligibility and seat allocation details are updated regularly on the official site."
+    ]
+  },
+  "established": {
+    "patterns": [
+      "when was cucek established",
+      "establishment of cucek",
+      "establish"
+    ],
+    "responses": [
+      "cucek was established in the year 1999."
+    ]
+  },
+  "departments_btech": {
+    "patterns": [
+      "btech departments in CUCEK",
+      "btech branches available",
+      "btech courses offered",
+      "undergraduate departments",
+      "engineering branches in CUCEK",
+      "what all branches are there",
+      "best course in cucek",
+      "Rate courses in cucek",
+      "Rate cucek"
+    ],
+    "responses": [
+      "CUCEK offers B.Tech programs in Computer Science (CSE), Electronics & Communication (ECE), Information Technology (IT), Civil (CE), and Electrical & Electronics (EEE).",
+      "B.Tech branches at CUCEK include CSE, ECE, IT, Civil, and EEE. Each department is equipped with labs and experienced faculty.",
+      "You can choose from five major engineering branches at CUCEK: CSE, ECE, IT, Civil, and EEE."
+    ]
+  },
+  "fees_btech": {
+    "patterns": [
+      "btech fee structure",
+      "how much is btech tuition",
+      "CUCEK btech fees",
+      "undergraduate fees",
+      "fee for engineering",
+      "what is the fees for btech",
+      "fee structure",
+      "fees"
+    ],
+    "responses": [
+      "B.Tech fees at CUCEK range between ₹25,000 to ₹80,000 per semester, depending on your quota (state merit, all India, or NRI). Visit admissions.cusat.ac.in for exact details.",
+      "The CUCEK B.Tech tuition varies based on the admission category. Other charges include caution deposits and special fees. Check the official website for fee breakdown.",
+      "To get an updated fee structure, visit the CUSAT admissions portal and refer to the latest prospectus."
+    ]
+  },
+  "facilities_general": {
+    "patterns": [
+      "what facilities are available",
+      "CUCEK campus features",
+      "general facilities",
+      "features of CUCEK",
+      "CUCEK infrastructure",
+      "what are facilities in CUCEK"
+    ],
+    "responses": [
+      "CUCEK has a central library, department-specific labs, canteen, sports facilities, seminar halls, and more to support student learning and life.",
+      "The campus includes advanced labs, classrooms, transportation, a medical unit, and more. It’s well-equipped for holistic student development.",
+      "From academic to recreational, CUCEK offers a wide range of facilities. Visit the website to see a detailed list."
+    ]
+  },
+  "facilities_hostel": {
+    "patterns": [
+      "hostel facilities",
+      "CUCEK hostel",
+      "accommodation in CUCEK",
+      "room and boarding",
+      "hostel near CUCEK",
+      "where do students stay"
+    ],
+    "responses": [
+      "CUCEK does not have its own hostels, but multiple approved hostels are available nearby. You can contact the CUCEK admin office for details.",
+      "Students typically stay in private hostels near CUCEK. These are recognized by the college and offer good amenities. Reach out to the admin office for admission procedures.",
+      "Though on-campus hostels are not available, CUCEK collaborates with nearby accommodation providers. Inquire at the admin office for hostel listings."
+    ]
+  },
+  "facilities_library": {
+    "patterns": [
+      "library facilities",
+      "CUCEK library",
+      "book collection at CUCEK",
+      "e-resources in the library",
+      "library services",
+      "digital resources in CUCEK",
+      "previous year question papers in library",
+      "library support for students",
+      "are e-books available in the library?"
+    ],
+    "responses": [
+      "CUCEK has a well-equipped central library with textbooks, reference books, journals, previous year question papers, and access to e-resources for all departments.",
+      "The CUCEK library provides extensive study and research materials including printed and digital content. Check the CUCEK library section on the official website for timings and catalog access.",
+      "Need academic resources? The CUCEK library offers physical and digital books, journals, and more. Visit the library or check the CUCEK site for updated info."
+    ]
+  },
+  "placements_overview": {
+    "patterns": [
+      "placement details",
+      "does CUCEK have placements",
+      "companies visiting CUCEK",
+      "placement statistics",
+      "highest package in CUCEK",
+      "placement process at CUCEK",
+      "placement cell",
+      "how are placements at CUCEK",
+      "average package"
+    ],
+    "responses": [
+      "CUCEK has a dedicated placement cell that brings in reputed companies such as TCS, Infosys, Wipro, Cognizant, and more. For detailed reports and packages, visit the placement section of the CUCEK website.",
+      "Top companies regularly visit CUCEK for placements. The placement cell coordinates recruitment and training. You can check the official placement brochure for updated stats.",
+      "Placement opportunities are facilitated by CUCEK's placement cell. Highest and average package data is usually published on the website or available through the placement office."
+    ]
+  },
+  "placements_companies": {
+    "patterns": [
+      "major recruiters",
+      "top companies visiting CUCEK",
+      "companies hiring from CUCEK",
+      "recruiters at CUCEK",
+      "which companies visit CUCEK"
+    ],
+    "responses": [
+      "Major recruiters at CUCEK include TCS, Infosys, Wipro, Cognizant, and other top companies from the IT and engineering sectors. Visit the placement office for a full list.",
+      "CUCEK sees recruitment drives from top-tier companies. The list varies yearly and is available on the placement cell’s notice board or official site.",
+      "The CUCEK placement cell works with companies like TCS, Infosys, and Wipro. For a comprehensive recruiter list, check the official placement section."
+    ]
+  },
+  "events_overview": {
+    "patterns": [
+      "what are the events in CUCEK",
+      "festivals in CUCEK",
+      "college events",
+      "programs in CUCEK",
+      "celebrations in CUCEK",
+      "events organized by CUCEK",
+      "yearly events in CUCEK"
+    ],
+    "responses": [
+      "CUCEK organizes annual events such as Sattva (cultural fest), Sattva Sports (sports fest), technical workshops, hackathons, and department-specific programs. Keep an eye on the website or student groups for event announcements.",
+      "From cultural fests like 'Sattva' to tech expos and sports events, CUCEK offers students a vibrant event calendar. Check the CUCEK website for dates.",
+      "CUCEK hosts a wide range of events, including cultural, technical, and sports festivals. Announcements are made via the website and campus boards."
+    ]
+  },
+  "office_hours": {
+    "patterns": [
+      "what are the office hours of cucek",
+      "cucek exam cell",
+      "timing of office cucek",
+      "exam cell timing cucek"
+    ],
+    "responses": [
+      "The office hours are same as the working hours of exam cell from 9.30am to 4.30pm, office and exam cell is closed every 2nd and 4th saturday."
+    ]
+  },
+  "sattva_sportsfest": {
+    "patterns": [
+      "sattva sports",
+      "sports fest in CUCEK",
+      "annual sports event",
+      "CUCEK sports competitions",
+      "sattva sports fest details",
+      "when is CUCEK sports day",
+      "sports events in CUCEK"
+    ],
+    "responses": [
+      "Sattva Sports is CUCEK’s annual inter-departmental sports fest featuring events like football, cricket, athletics, badminton, and more.",
+      "CUCEK organizes 'Sattva Sports' annually, where students from all departments participate in various outdoor and indoor games.",
+      "Want to show your sports skills? Join Sattva Sports! It includes cricket, football, athletics, and other fun events. Dates and schedules are announced every year by the sports committee."
+    ]
+  },
+  "events_culturalfest": {
+    "patterns": [
+      "cultural fest",
+      "sattva fest",
+      "cultural events in CUCEK",
+      "sattva CUCEK",
+      "arts fest"
+    ],
+    "responses": [
+      "'sattva' is CUCEK's cultural festival, celebrating arts, culture, and student talent. It includes performances, competitions, and entertainment. Watch for announcements on the CUCEK website or social media for the dates and program lineup of Sattva.",
+      "CUCEK's cultural fest, 'Sattva', is an eagerly awaited annual event filled with cultural programs and activities. Stay informed about the upcoming Sattva fest by visiting the CUCEK website or following their cultural event updates.",
+      "For those interested in cultural activities, CUCEK's 'Sattva' is the main cultural festival. It offers a stage for students to showcase their talents. Keep an eye on the CUCEK website for 'Sattva' fest details."
+    ]
+  },
+  "canteen_info": {
+    "patterns": [
+      "is there a canteen in CUCEK",
+      "food in CUCEK",
+      "CUCEK cafeteria",
+      "canteen facilities",
+      "where can I eat in CUCEK",
+      "food availability on campus"
+    ],
+    "responses": [
+      "Yes, CUCEK has a hygienic and affordable canteen that serves snacks, meals, and beverages for students and staff.",
+      "CUCEK offers canteen facilities with vegetarian and non-vegetarian food options. It’s a good spot for a quick meal or refreshment.",
+      "Hungry on campus? Visit the CUCEK canteen for meals, snacks, and beverages. It’s open during college hours and is student-friendly."
+    ]
+  },
+  "location": {
+    "patterns": [
+      "where is CUCEK located",
+      "CUCEK address",
+      "location of CUCEK",
+      "how to reach CUCEK",
+      "college location"
+    ],
+    "responses": [
+      "CUCEK is located in Pulinkunnu, Alappuzha, Kerala – about 10 km from Alappuzha town.",
+      "The college is situated in Pulinkunnu, Alappuzha district, Kerala. It’s accessible by road from Alappuzha railway station or town.",
+      "You can find CUCEK in Pulinkunnu, Alappuzha. Use Google Maps to navigate for directions."
+    ]
+  },
+  "contact_info": {
+    "patterns": [
+      "how to contact CUCEK",
+      "college contact number",
+      "CUCEK email address",
+      "CUCEK phone",
+      "contact details"
+    ],
+    "responses": [
+      "You can contact CUCEK at +91 476 266 5935 or via email at principal@cucek.ac.in. For department-specific queries, refer to the official website.",
+      "For general inquiries, call CUCEK at +91 476 266 5935 or email principal@cucek.ac.in. You can also visit the Contact section of the website.",
+      "CUCEK's main contact number is +91 476 266 5935. For detailed contact info, head to cucek.ac.in/contact."
+    ]
+  },
+  "website_info": {
+    "patterns": [
+      "CUCEK official website",
+      "college website",
+      "CUCEK site link",
+      "what is the website of CUCEK",
+      "online portal CUCEK"
+    ],
+    "responses": [
+      "CUCEK's official website is [https://www.cucek.in](https://www.cucek.in). You’ll find academic, admission, and event details there.",
+      "You can visit CUCEK online at [https://www.cucek.in](https://www.cucek.in). It has all official announcements and contact info.",
+      "For more information, forms, and updates, visit the official CUCEK website: [https://www.cucek.in](https://www.cucek.in)."
+    ]
+  },
+  "principal": {
+    "patterns": [
+      "who is the principal",
+      "principal of CUCEK",
+      "current principal",
+      "name of principal",
+      "who is the current principal of CUCEK",
+      "who is heading CUCEK",
+      "head of CUCEK",
+      "CUCEK principal name"
+    ],
+    "responses": [
+      "As of my last update, the Principal of CUCEK is Dr. Asaletha R.",
+      "The current principal of Cochin University College of Engineering Kuttanad is Dr. Asaletha R.",
+      "Dr. Asaletha R is currently serving as the Principal of CUCEK.",
+      "CUCEK is headed by Dr. Asaletha R, who is the current Principal.",
+      "Dr. Asaletha R is the present principal of CUCEK, overseeing academic and administrative activities."
+    ]
+  },
+  "Cusat_affiliation": {
+    "patterns": [
+      "is CUCEK part of CUSAT",
+      "CUCEK CUSAT affiliation",
+      "affiliated to CUSAT",
+      "is CUCEK affiliated to CUSAT",
+      "CUSAT affiliation of CUCEK",
+      "does CUCEK come under CUSAT",
+      "CUCEK belongs to which university",
+      "under which university is CUCEK"
+    ],
+    "responses": [
+      "Yes, Cochin University College of Engineering Kuttanad (CUCEK) is a constituent college of Cochin University of Science and Technology (CUSAT).",
+      "CUCEK is an integral part of the Cochin University of Science and Technology (CUSAT) system.",
+      "CUCEK functions as a college under the umbrella of Cochin University of Science and Technology (CUSAT).",
+      "CUCEK operates under the academic governance of CUSAT.",
+      "Cochin University of Science and Technology (CUSAT) is the parent university of CUCEK."
+    ]
+  },
+  "scholarships": {
+    "patterns": [
+      "scholarships available",
+      "financial aid",
+      "merit scholarships",
+      "fee waivers",
+      "scholarships possible?",
+      "does cucek provide scholarships",
+      "any scholarships in CUCEK",
+      "are there any scholarships",
+      "what kind of scholarships are available",
+      "does CUCEK offer financial support",
+      "CUCEK scholarship details",
+      "scholarships for students"
+    ],
+    "responses": [
+      "CUCEK, being a part of CUSAT, offers various scholarships and financial aid opportunities. These may include merit scholarships, government scholarships, and concessions for certain categories. Please check the official CUSAT website or contact the student welfare department at CUCEK for detailed information on eligibility and application procedures.",
+      "Students at CUCEK can apply for different scholarships, including merit-based and need-based schemes. Information on scholarships is usually available on the CUSAT website and through the CUCEK student services.",
+      "To explore scholarship options at CUCEK, visit the CUSAT website and look for the scholarships section. You can also contact the CUCEK administration or student welfare office for guidance on available financial aid.",
+      "CUCEK students are eligible for various scholarships facilitated by the university and external agencies. Check with the CUCEK scholarship cell or the CUSAT website for complete information.",
+      "Scholarship opportunities are available for eligible students at CUCEK. Reach out to the student welfare department for more assistance regarding scholarship schemes and criteria."
+    ]
+  },
+  "hostel_facilities_details": {
+    "patterns": [
+      "hostel facilities details",
+      "inside CUCEK hostels",
+      "hostel amenities",
+      "facilities in hostel",
+      "what are the hostel facilities",
+      "what does CUCEK hostel provide",
+      "amenities available in CUCEK hostels",
+      "what's included in CUCEK hostels",
+      "hostel services in CUCEK",
+      "details about CUCEK hostel rooms",
+      "are there study rooms in CUCEK hostels",
+      "CUCEK hostel common areas",
+      "CUCEK hostel dining facilities"
+    ],
+    "responses": [
+      "CUCEK approved hostels provide essential amenities such as semi/fully furnished rooms, study areas, common rooms, and dining halls. They aim to provide a comfortable and conducive living environment for students. For specific details about room types, mess facilities, and other amenities, it's best to contact the CUCEK administration office.",
+      "Hostel facilities at CUCEK include basic amenities to ensure a comfortable stay, such as semi/fully furnished rooms and dining. For detailed information on what's offered in the hostels, please get in touch with the hostel authorities at CUCEK.",
+      "CUCEK approved hostels are equipped with necessary facilities to support student living, including furniture, study spaces, and mess services. For comprehensive details regarding hostel life and facilities, contact the CUCEK administration office.",
+      "CUCEK hostels provide the essential infrastructure for a student-friendly stay, including fully furnished rooms, common lounges, and necessary study facilities. For more information on room allotments and additional services, kindly approach the CUCEK hostel office.",
+      "The hostels at CUCEK are equipped with the necessary facilities like 24/7 water supply, internet connectivity, and well-maintained mess services. For further details, contact the CUCEK administration or hostel management."
+    ]
+  },
+  "hostel_admission": {
+    "patterns": [
+      "how to apply for hostel",
+      "hostel admission process",
+      "CUCEK hostel admission",
+      "apply for accommodation",
+      "how can I get a hostel room",
+      "how to apply for CUCEK hostel",
+      "steps to apply for hostel",
+      "admission in CUCEK hostel",
+      "what is the hostel admission process"
+    ],
+    "responses": [
+      "To apply for hostel accommodation at CUCEK, you typically need to fill out a hostel application form, available from the CUCEK administration office or possibly on their website. Admissions are usually based on availability and college policies. Contact the CUCEK administration for the hostel application form and detailed procedure.",
+      "The process for hostel admission at CUCEK involves submitting an application to the college administration. Hostels are limited, and admission criteria apply. Obtain the hostel application form and guidelines from the CUCEK administrative office.",
+      "If you wish to stay in the CUCEK approved hostel, you should apply through the college administration. They will provide you with the necessary application forms and information on the hostel allotment process. Reach out to the admin office for hostel admission details.",
+      "You can apply for hostel accommodation at CUCEK by completing the necessary form provided by the administration. Ensure you meet the eligibility criteria, and submit your form as soon as possible to secure a spot."
+    ]
+  },
+  "library_resources": {
+    "patterns": [
+      "library resources",
+      "what books are in library",
+      "journals in library",
+      "e-books access",
+      "what materials are available in CUCEK library",
+      "does CUCEK library have e-books",
+      "what resources are available in CUCEK library",
+      "does CUCEK library have digital resources"
+    ],
+    "responses": [
+      "CUCEK's library offers a wide array of resources, including textbooks, reference books, national and international journals, e-books, and digital databases relevant to engineering and technology. For a detailed catalog and access to e-resources, visit the CUCEK library website or inquire at the library desk.",
+      "The library at CUCEK is equipped with a rich collection of printed and electronic resources, including books, journals, and online databases, catering to all engineering disciplines offered. Explore the CUCEK library portal or speak to the librarian for more details on available resources.",
+      "For academic and research purposes, CUCEK library provides access to a comprehensive collection of books, journals, and digital learning materials. Check the CUCEK website's library section for resource details and access methods.",
+      "CUCEK library offers access to an extensive collection of textbooks, reference materials, and e-resources. Students can benefit from the available journals, databases, and e-books provided in the library."
+    ]
+  },
+  "library_timings": {
+    "patterns": [
+      "library timings",
+      "library hours",
+      "when is library open",
+      "CUCEK library time",
+      "what time does the library open",
+      "CUCEK library schedule",
+      "is the library open on weekends",
+      "library open hours"
+    ],
+    "responses": [
+      "CUCEK library timings are generally from 9 AM to 5 PM on weekdays, and may have reduced hours or be closed on weekends and public holidays. It's best to check the exact current timings on the CUCEK website or by contacting the library directly, as hours may vary during exam periods or holidays.",
+      "Typically, the CUCEK library operates from 9:00 am to 5:00 pm on weekdays. Weekend and holiday hours might differ. For the most accurate and up-to-date library hours, please refer to the CUCEK website or contact the library staff.",
+      "The usual working hours of CUCEK library are 9 AM to 5 PM, Monday to Friday. Please confirm the current schedule, especially for weekends and holidays, by visiting the CUCEK website or contacting the library.",
+      "You can visit the CUCEK library from 9 AM to 5 PM on weekdays. It is advisable to check for any changes in hours around exam periods or public holidays."
+    ]
+  },
+  "transportation": {
+    "patterns": [
+      "transportation facilities",
+      "bus routes to CUCEK",
+      "how to reach CUCEK",
+      "getting to college",
+      "come to cucek",
+      "how to come to cucek",
+      "CUCEK transport options",
+      "how to travel to CUCEK",
+      "transportation to CUCEK"
+    ],
+    "responses": [
+      "CUCEK is accessible by bus and other public transport. Bus services are available from major nearby towns to Pulincunnu. For specific bus routes and the best way to reach CUCEK, you can inquire at local bus stations or use online transport apps. CUCEK's location is also searchable on Google Maps for navigation.",
+      "Reaching CUCEK is possible via bus services that connect Pulincunnu to surrounding areas. To find the most suitable bus route, you may check with local transport services or use digital route planners. Google Maps can also help in planning your journey to CUCEK.",
+      "Transportation to CUCEK is mainly through bus services to Pulincunnu. For detailed routes and travel options, consider using online maps or asking at local transport information centers. CUCEK’s location is marked on Google Maps for easy navigation.",
+      "You can reach CUCEK by utilizing public transport such as buses to Pulincunnu. It is best to check local bus routes or use mapping tools like Google Maps for the most efficient route."
+    ]
+  },
+  "cse_department": {
+    "patterns": [
+      "cse department",
+      "computer science department",
+      "about CSE",
+      "B.Tech computer science",
+      "CS",
+      "details about cse dept",
+      "CUCEK CSE",
+      "computer science program"
+    ],
+    "responses": [
+      "The Computer Science and Engineering (CSE) department at CUCEK offers a comprehensive B.Tech program focusing on core computer science principles and technologies. The department is known for its experienced faculty and well-equipped labs. For more details about the curriculum, faculty, and facilities, visit the CSE department section on the CUCEK website.",
+      "CUCEK's CSE department provides a strong B.Tech program covering areas like algorithms, data structures, software engineering, and more. You can find detailed information about the department's offerings, faculty, and infrastructure on the CUCEK website under the CSE department.",
+      "If you're interested in Computer Science Engineering, CUCEK's CSE department offers a B.Tech program designed to build a strong foundation in CS. Check the CUCEK website for specifics on the CSE program, faculty, and department resources.",
+      "The CSE department at CUCEK offers an advanced curriculum in Computer Science, including subjects such as Artificial Intelligence, Database Systems, and Network Engineering. For further details, visit the CUCEK CSE department webpage."
+    ]
+  },
+  "eee_department": {
+    "patterns": [
+      "eee department",
+      "electrical engineering department",
+      "about eee",
+      "B.Tech electrical engineering",
+      "eee",
+      "details about eee dept",
+      "CUCEK EEE",
+      "electrical engineering program"
+    ],
+    "responses": [
+      "The Electrical Engineering(EEE) department at CUCEK offers a comprehensive B.Tech program focusing on core electrical principles and technologies. The department is known for its experienced faculty and well-equipped labs. For more details about the curriculum, faculty, and facilities, visit the EEE department section on the CUCEK website.",
+      "CUCEK's EEE department provides a strong B.Tech program covering areas like Electrical Machines, Analog integrated circuits, Power Electronics and more. You can find detailed information about the department's offerings, faculty, and infrastructure on the CUCEK website under the EEE department.",
+      "If you're interested in Electrical Engineering, CUCEK's EEE department offers a B.Tech program designed to build a strong foundation in EEE. Check the CUCEK website for specifics on the EEE program, faculty, and department resources.",
+      "The Electrical Engineering department at CUCEK provides a well-rounded B.Tech program with a focus on power systems, control engineering, and electrical circuits. Visit the CUCEK EEE department webpage for further details."
+    ]
+  },
+  "ece_department": {
+    "patterns": [
+      "ece department",
+      "electronics and communication department",
+      "about ECE",
+      "B.Tech electronics and communication",
+      "details about ece dept",
+      "details about electronics and communication engineering department",
+      "CUCEK ECE",
+      "electronics communication program"
+    ],
+    "responses": [
+      "The Electronics and Communication Engineering (ECE) department at CUCEK offers a B.Tech program focused on electronics, communication systems, and related technologies. The department is committed to providing quality education and research opportunities. More information about the ECE program, faculty, and labs is available on the CUCEK website in the ECE department section.",
+      "CUCEK's ECE department offers a B.Tech degree program that covers electronics, communication, and signal processing domains. For details on the curriculum, faculty, and facilities within the ECE department, please visit the CUCEK website.",
+      "For those interested in Electronics and Communication Engineering, CUCEK's ECE department provides a B.Tech program with a strong emphasis on both theoretical and practical aspects. Visit the CUCEK website and navigate to the ECE department for detailed information.",
+      "The ECE department at CUCEK offers a thorough curriculum focused on electronics, communication networks, and signal processing. For more details, refer to the CUCEK website's ECE section."
+    ]
+  },
+  "it_department": {
+    "patterns": [
+      "it department",
+      "information technology department",
+      "about IT",
+      "B.Tech information technology",
+      "details about it department",
+      "details aboit information technology dept",
+      "CUCEK IT",
+      "information technology program"
+    ],
+    "responses": [
+      "The Information Technology (IT) department at CUCEK offers a B.Tech program focused on information systems, software applications, and IT infrastructure. The department aims to prepare students for the evolving IT industry. Detailed information regarding the IT program, faculty, and department resources can be found on the CUCEK website under the IT department.",
+      "CUCEK's IT department provides a B.Tech program that deals with information management, networking, and software development. For specifics about the curriculum, faculty, and facilities in the IT department, please refer to the CUCEK website.",
+      "If you are looking at Information Technology Engineering, CUCEK's IT department offers a B.Tech program designed to provide expertise in IT and software applications. Check the CUCEK website for more details about the IT program and department.",
+      "The IT department at CUCEK focuses on information technology systems and networking. For more details on their curriculum and offerings, visit the CUCEK IT department page."
+    ]
+  },
+  "civil_department": {
+    "patterns": [
+      "civil department",
+      "civil engineering department",
+      "about civil engineering",
+      "B.Tech civil engineering"
+    ],
+    "responses": [
+      "The Civil Engineering (CE) department at CUCEK offers B.Tech program. The department focuses on structural engineering, environmental engineering, and infrastructure development. For comprehensive details on programs, faculty, and labs, visit the Civil Engineering department section on the CUCEK website.",
+      "CUCEK's Civil Engineering department provides B.Tech program covering key areas of civil engineering. You can find detailed information about the department's programs, faculty, and infrastructure on the CUCEK website.",
+      "For those interested in Civil Engineering, CUCEK's CE department offers undergraduate program. Check the CUCEK website for specifics on the Civil Engineering programs and department resources.",
+      "CUCEK's Civil Engineering department offers a solid B.Tech program focusing on construction, design, and environmental engineering. For more information, visit the Civil Engineering department section of the CUCEK website."
+    ]
+  },
+  "grievance_redressal": {
+    "patterns": [
+      "grievance redressal",
+      "student complaints",
+      "who to complain to",
+      "grievance cell",
+      "student problems",
+      "ragging",
+      "who to complain for ragging",
+      "how to file a complaint",
+      "complaint procedure",
+      "how does grievance redressal work"
+    ],
+    "responses": [
+      "CUCEK has a grievance redressal mechanism to address student complaints and issues. Students can approach the grievance redressal cell or the student welfare department for any concerns. Details about the grievance redressal process and contact information for the cell are usually available on the CUCEK website.",
+      "For addressing any grievances, CUCEK provides a grievance redressal system. Students are encouraged to use this mechanism for any complaints or issues they face. Information about the process and relevant contacts can be found on the CUCEK website.",
+      "If you have any complaints or grievances at CUCEK, there is a designated grievance redressal cell to assist students. Check the CUCEK website for details on how to file a grievance and who to contact.",
+      "To file a grievance at CUCEK, students can visit the grievance redressal cell, where they will be guided through the process. You can also check the CUCEK website for more information on the steps involved."
+    ]
+  },
+  "alumni": {
+    "patterns": [
+      "alumni network",
+      "CUCEK alumni",
+      "past students",
+      "alumni association",
+      "how to contact CUCEK alumni",
+      "CUCEK alumni events",
+      "CUCEK alumni mentorship",
+      "alumni network activities"
+    ],
+    "responses": [
+      "CUCEK has an alumni network that connects past graduates. The alumni association often engages in college events and supports current students through mentorship and networking. To learn more about the CUCEK alumni association and its activities, you may look for an 'Alumni' section on the CUCEK website.",
+      "The CUCEK alumni network provides a platform for graduates to stay connected and contribute to the college community. Details about the alumni association, its events, and how to join can often be found on the CUCEK website.",
+      "CUCEK boasts an active alumni community. The alumni association plays a role in college development and student support. For information on the CUCEK alumni association and its initiatives, check the CUCEK website.",
+      "If you're interested in connecting with CUCEK alumni, you can reach out through the CUCEK alumni network. They organize events and provide mentorship to current students."
+    ]
+  },
+  "rankings": {
+    "patterns": [
+      "CUCEK ranking",
+      "college ranking",
+      "NIRF ranking",
+      "accreditation",
+      "CUCEK national ranking",
+      "is CUCEK ranked",
+      "CUCEK ranking history"
+    ],
+    "responses": [
+      "CUCEK is a recognized engineering college under CUSAT. For specific rankings such as NIRF or other accreditation details, it's recommended to check the official CUCEK or CUSAT websites, as ranking information is periodically updated. You may also find ranking details on the websites of ranking bodies.",
+      "To find out about CUCEK's rankings and accreditations, please refer to the official websites of CUCEK and CUSAT. Rankings from bodies like NIRF, if applicable, would be published there.",
+      "Information on CUCEK's ranking and accreditation status can be best found on the official CUCEK and CUSAT websites. Check these sites for the latest updates on college ratings and recognitions.",
+      "For the latest ranking information about CUCEK, check with the NIRF rankings or visit the CUCEK website. Rankings are updated regularly by various accrediting agencies."
+    ]
+  },
+  "campus_visit": {
+    "patterns": [
+      "visiting CUCEK campus",
+      "campus tour",
+      "can I visit CUCEK",
+      "see the college",
+      "how to visit CUCEK",
+      "campus visiting guidelines",
+      "CUCEK visitor policy"
+    ],
+    "responses": [
+      "Yes, prospective students and visitors may be allowed to visit the CUCEK campus. It is advisable to contact the college administration beforehand to schedule your visit and inquire about any visitor guidelines. They can provide you with the best times to visit and any procedures to follow.",
+      "If you are planning to visit CUCEK, it's recommended to get in touch with the college administration to arrange a visit. They can offer guidance on visiting hours and any necessary permissions. Contact details are available on the CUCEK website.",
+      "Campus visits to CUCEK might be possible. To ensure a smooth visit, it's recommended to coordinate with the CUCEK administration office prior to your arrival. They can provide information on visit protocols and timings.",
+      "For a campus tour at CUCEK, it’s best to contact the college administration for scheduling and guidelines. They can help arrange the visit according to your availability."
+    ]
+  },
+  "application_process_btech": {
+    "patterns": [
+      "how to apply for btech",
+      "btech application process",
+      "btech apply online",
+      "btech registration",
+      "B.Tech admission procedure",
+      "how to get into CUCEK B.Tech"
+    ],
+    "responses": [
+      "The application process for B.Tech programs at CUCEK is managed through the CUSAT Kerala and CAT exam. After qualifying in CAT, you need to participate in the centralized allotment process conducted by CUSAT Kerala. For detailed steps on application and allotment, refer to the CAT prospectus and CUSAT Kerala website.",
+      "To apply for B.Tech at CUCEK, you must first register for and qualify in the CAT exam. Following this, you'll need to participate in the CUSAT Kerala's centralized admission process. All application details are available on the CUSAT Kerala website.",
+      "For B.Tech admission application at CUCEK, the primary step is to appear for the CAT exam and then follow the CUSAT Kerala's admission procedures. Check the CUSAT Kerala website for CAT registration and details.",
+      "To apply for B.Tech at CUCEK, first complete the CAT exam registration and qualification process, followed by the centralized allotment. Full details are available on the CUSAT website."
+    ]
+  },
+  "application_process_mca": {
+    "patterns": [
+      "how to apply for mca ",
+      "mca application process",
+      "mca apply online",
+      "mca registration",
+      "MCA admission procedure",
+      "how to get into CUCEK MCA"
+    ],
+    "responses": [
+      "The application process for MCA programs at CUCEK is through the CUSAT Common Admission Test (CAT). Application forms and notifications are released on the official CUSAT website. You need to apply and appear for CUSAT CAT. Visit the CUSAT website for the MCA admission prospectus and online application process.",
+      "To apply for MCA at CUCEK, you should register and appear for the CUSAT CAT exam. The application process is online through the CUSAT website. Keep an eye on the CUSAT website for admission notifications and application deadlines.",
+      "For MCA admission application at CUCEK, the key step is to apply for CUSAT CAT through the CUSAT website. Follow the instructions provided in the MCA admission prospectus available on the CUSAT website.",
+      "To apply for MCA at CUCEK, complete the registration and exam process through CUSAT CAT. Make sure to visit the CUSAT website for all the admission-related details."
+    ]
+  },
+  "placement_process": {
+    "patterns": [
+      "placement process",
+      "how placements work",
+      "recruitment process",
+      "campus placement procedure",
+      "how does placement work at CUCEK",
+      "placement cell process"
+    ],
+    "responses": [
+      "The placement process at CUCEK typically involves company registrations, student registrations, pre-placement talks, written tests, interviews, and offer announcements. The placement cell coordinates these activities. For a detailed understanding of the placement process, you can contact the CUCEK placement cell or refer to any placement guidelines published by the college.",
+      "CUCEK's placement process is structured to facilitate recruitment by visiting companies. It generally includes stages like registrations, company presentations, selection tests, and interviews. For a step-by-step guide on the process, reach out to the CUCEK placement office.",
+      "Campus placements at CUCEK are conducted through a coordinated process managed by the placement cell. This usually involves company interactions, student assessments, and interviews. For comprehensive information on the placement procedure, contact the placement cell at CUCEK.",
+      "The CUCEK placement procedure includes several steps such as registration, pre-placement talks, written tests, and final interviews with companies. For more detailed information, it's recommended to reach out to the placement office."
+    ]
+  },
+  "canteen_menu_details": {
+    "patterns": [
+      "canteen menu details",
+      "what food is available in canteen",
+      "canteen food menu",
+      "items in canteen",
+      "canteen food options",
+      "CUCEK canteen meals"
+    ],
+    "responses": [
+      "CUCEK canteen typically offers a variety of South Indian and North Indian dishes, including rice, curries, snacks, and beverages. Menu items and availability may vary daily. For today's menu or specific food inquiries, it's best to check directly at the canteen on campus.",
+      "The canteen at CUCEK usually serves a range of meals and snacks, with options in both vegetarian and non-vegetarian categories. Daily menus can differ, so for the most current menu, please visit the canteen in person.",
+      "CUCEK's canteen provides a selection of food items, generally including rice meals, different curries, and snack options. For detailed daily menu information, it's recommended to check at the canteen itself when you are on campus.",
+      "CUCEK canteen offers a mix of popular South and North Indian food, including snacks, meals, and beverages. You can check the canteen on the day of your visit for the full menu."
+    ]
+  },
+  "hostel_fee_structure": {
+    "patterns": [
+      "hostel fee structure",
+      "how much is hostel fee",
+      "CUCEK hostel fees",
+      "boarding fee",
+      "hostel charges",
+      "what are the hostel fees at CUCEK",
+      "fees for hostel accommodation"
+    ],
+    "responses": [
+      "Hostel fees at CUCEK vary depending on the type of accommodation and facilities. On average, monthly hostel fees might range from ₹1,500 to ₹4,000 per month, excluding mess charges. For the exact and current fee structure, including any deposits or mess fees, please contact the CUCEK hostel administration or check the college website.",
+      "CUCEK hostel fees differ based on the type of room and available amenities. Expect to pay around ₹15,000 - ₹88,000 annually for hostel accommodation, plus mess charges. For precise fee details, it's best to inquire with the CUCEK administration office.",
+      "The fee for CUCEK hostels is subject to variables like room type and facilities offered. An estimated annual hostel fee could be between ₹15,000 and ₹88,000, not including mess expenses. For accurate and updated fee information, contact the CUCEK hostel administration.",
+      "The fees for CUCEK hostels are determined based on room types and available facilities, with charges ranging between ₹1,500 to ₹4,000 per month. To get the most up-to-date information, it's advisable to check with the hostel office or visit the CUCEK website."
+    ]
+  },
+  "exam_details": {
+    "patterns": [
+      "exam details",
+      "exam schedule",
+      "semester exams",
+      "internal exams",
+      "when are the exams",
+      "exam dates",
+      "CUCEK exam dates"
+    ],
+    "responses": [
+      "CUCEK follows the academic schedule and exam policies of CUSAT. Semester exam schedules and details are usually announced on the college notice boards and the CUCEK website. For specific exam-related queries, please refer to the Controller of Examinations section on the CUSAT website or the CUCEK academic calendar.",
+      "Exam schedules at CUCEK, including semester and internal exams, are as per CUSAT guidelines and are notified through the college and CUCEK website. For detailed exam information, keep checking official CUCEK notices and the CUSAT exam controller's updates.",
+      "CUCEK's examination process is aligned with CUSAT regulations. Semester exam timetables and rules are typically published on the CUCEK website and college notice boards. For any exam-related clarifications, consult the CUCEK academic section or the CUSAT Controller of Examinations.",
+      "Exam details, including internal and semester exam schedules, are posted on the CUCEK website and college notice boards. It's a good idea to stay updated with official CUCEK announcements for any changes to exam dates."
+    ]
+  },
+  "placement_statistics": {
+    "patterns": [
+      "placement statistics",
+      "placement records",
+      "highest placement",
+      "average placement",
+      "how are the placements in cucek",
+      "placement statistics CUCEK",
+      "placement packages at CUCEK"
+    ],
+    "responses": [
+      "CUCEK placement statistics, including the highest and average placement packages, and the percentage of students placed, are usually compiled by the placement cell and may be available in placement reports or brochures. For detailed and official placement statistics, it is recommended to contact the CUCEK placement office directly.",
+      "For specific placement statistics of CUCEK, such as average salary packages and placement rates, please inquire with the CUCEK placement cell. They are the best source for detailed placement data.",
+      "If you're seeking data on CUCEK placements, like average or highest salary packages and placement percentages, the CUCEK placement cell would be the most reliable source of information. Contact them for placement statistics.",
+      "To know the latest placement details, such as placement records, average and highest salary packages, it's best to reach out to the CUCEK placement cell for official reports."
+    ]
+  },
+  "faculty_details": {
+    "patterns": [
+      "faculty details",
+      "faculty list",
+      "professors in CUCEK",
+      "teaching staff",
+      "who are the professors in CUCEK",
+      "CUCEK faculty"
+    ],
+    "responses": [
+      "Details about the faculty at CUCEK, including their profiles, qualifications, and specializations, are usually available on the respective department pages on the CUCEK website. You can visit the departmental pages to view the list of faculty members and their details.",
+      "To find information about CUCEK faculty, including their names and specializations, please visit the department sections on the CUCEK website. Faculty profiles are typically listed under each department.",
+      "If you're looking for details about the teaching staff at CUCEK, the best place to find this information is on the CUCEK website, under each department's faculty listing.",
+      "The CUCEK website hosts a comprehensive list of faculty members along with their academic qualifications, subjects taught, and areas of expertise. Check the departmental pages for detailed faculty information."
+    ]
+  },
+  "student_clubs": {
+    "patterns": [
+      "student clubs",
+      "clubs in CUCEK",
+      "extracurricular clubs",
+      "student organizations",
+      "how to join clubs",
+      "CUCEK student clubs",
+      "activities in CUCEK"
+    ],
+    "responses": [
+      "CUCEK has various student clubs and organizations catering to different interests, including technical, cultural, and social activities. Information on active clubs and how to join them can often be found on the CUCEK website or by contacting the student affairs department. Keep an eye on college notice boards for club events and announcements.",
+      "Students at CUCEK can participate in a range of clubs and organizations covering technology, culture, and community service. For a list of current clubs and how to get involved, check the CUCEK website or the student section.",
+      "CUCEK offers a variety of student clubs that enhance campus life and provide extracurricular opportunities. To discover the clubs availability and how to join, explore the CUCEK website or inquire at the administration office.",
+      "For information about student clubs and activities at CUCEK, visit the student affairs section on the college website, where you can find details on how to become a member of various clubs and upcoming events."
+    ]
+  },
+  "holidays": {
+    "patterns": [
+      "holiday list",
+      "college holidays",
+      "CUCEK holidays",
+      "list of holidays",
+      "CUCEK holiday dates",
+      "when are the holidays at CUCEK"
+    ],
+    "responses": [
+      "The list of holidays for CUCEK in an academic year is specified in the academic calendar, which is published on the CUCEK official website. This calendar includes public holidays and college-specific holidays. Refer to the academic calendar for the complete list of holidays.",
+      "CUCEK holiday dates are detailed in the academic calendar issued at the beginning of each academic year. You can find this calendar on the CUCEK website, which lists all holidays and breaks.",
+      "For a list of holidays observed by CUCEK, please check the academic calendar available on the official CUCEK website. The calendar will provide dates for all holidays during the academic year.",
+      "The CUCEK academic calendar outlines all holidays observed by the college, including public holidays and academic breaks. Check the CUCEK website for the most accurate holiday schedule."
+    ]
+  },
+  "cultural_events": {
+    "patterns": [
+      "cultural events",
+      "cultural programs",
+      "events like Sattva",
+      "cultural activities",
+      "cultural fests",
+      "CUCEK events"
+    ],
+    "responses": [
+      "Besides 'Sattva', CUCEK hosts various other cultural events throughout the year, organized by different student clubs and departments. These may include competitions, and performances. Keep an eye on CUCEK's notice boards, website, and social media for announcements about upcoming cultural events.",
+      "CUCEK is active in cultural activities beyond the annual 'Sattva' fest. Various cultural programs and events are organized regularly. Stay updated on these events through CUCEK's official website and social media channels.",
+      "In addition to 'Sattva', CUCEK's campus is lively with various cultural events and activities throughout the year. For information on upcoming cultural programs, regularly check the CUCEK website and college announcements.",
+      "CUCEK offers an array of cultural programs and events throughout the academic year, including workshops, competitions, and performances. Stay connected with CUCEK's official social media for the latest updates on cultural events."
+    ]
+  },
+  "sports_facilities": {
+    "patterns": [
+      "sports facilities",
+      "sports in CUCEK",
+      "grounds for sports",
+      "games facilities",
+      "CUCEK sports infrastructure",
+      "sports activities",
+      "cricket",
+      "football",
+      "baseball",
+      "badminton",
+      "volleyball"
+      
+    ],
+    "responses": [
+      "CUCEK provides facilities for various sports and games, including grounds for cricket, football, and courts for badminton and volleyball. Specific details about sports facilities and how to access them can be obtained from the CUCEK physical education department or the administration office.",
+      "For sports enthusiasts, CUCEK offers facilities for games like cricket, football, badminton, and volleyball. To know more about the sports infrastructure and activities, contact the CUCEK physical education department.",
+      "CUCEK has provisions for sports with grounds and courts for games such as cricket, football, badminton, and volleyball. For details on sports facilities and schedules, inquire at the CUCEK student affairs or physical education department.",
+      "The CUCEK campus is equipped with multiple sports facilities, including football and cricket grounds, along with badminton and volleyball courts. Visit the physical education department to learn more about usage and scheduling."
+    ]
+  },
+  "bus_routes": {
+    "patterns": [
+      "bus routes to CUCEK",
+      "bus to Pulincunnu",
+      "transport to CUCEK",
+      "public transport",
+      "bus services to CUCEK",
+      "how to reach CUCEK by bus"
+    ],
+    "responses": [
+      "CUCEK, located in Pulincunnu, is accessible via KSRTC bus services. Buses from major locations like Alappuzha, Kottayam, and Changanassery to Pulincunnu are available. For the most accurate and updated bus routes, it is advisable to check with the local KSRTC or private bus stations.",
+      "You can reach CUCEK by bus, with services running to Pulincunnu from nearby cities such as Alappuzha, Kottayam, and Changanassery. For current bus timings and route details, please inquire at the nearest bus station.",
+      "Public transportation to CUCEK mainly involves bus services to Pulincunnu. Buses from Alappuzha, Kottayam, and Changanassery are common routes. For precise bus route information, checking with local bus transport authorities is recommended.",
+      "There are multiple bus services running to CUCEK from nearby towns like Alappuzha and Kottayam. For route-specific details and the latest schedules, visit the nearest bus station or use online route planners."
+    ]
+  },
+  "nearest_railway_station": {
+    "patterns": [
+      "nearest railway station",
+      "railway station close to CUCEK",
+      "train station near CUCEK",
+      "rail connectivity to CUCEK",
+      "nearest train station"
+    ],
+    "responses": [
+      "The nearest railway station to CUCEK, Pulincunnu, is Alappuzha (Alleppey) Railway Station, which is about 20-25 km away. From Alappuzha Railway Station, you can take a bus or taxi to reach CUCEK in Pulincunnu. You can use online maps or local transport apps for detailed directions from the railway station to CUCEK.",
+      "Alappuzha Railway Station is the closest major railhead to CUCEK, approximately 20-25 km away. From there, bus and taxi services are available to get to CUCEK in Pulincunnu. Consider using online navigation tools for route planning from the railway station.",
+      "For rail travel to CUCEK, Alappuzha Railway Station is the most convenient option, situated around 20-25 km from CUCEK. Post-rail journey, buses or taxis can be used to reach CUCEK in Pulincunnu. Online map services can assist with directions from the station.",
+      "The nearest railway station is Alappuzha (Alleppey), located approximately 20-25 km from CUCEK. You can take a taxi or local bus from the station to reach CUCEK."
+    ]
+  },
+  "nearest_airport": {
+    "patterns": [
+      "nearest airport",
+      "airport close to CUCEK",
+      "closest airport",
+      "airports near CUCEK",
+      "how to reach CUCEK by air"
+    ],
+    "responses": [
+      "The nearest airport to CUCEK is Cochin International Airport (COK), which is approximately 130 km away. From Cochin Airport, you can hire a taxi or use pre-booked airport transfer services to reach CUCEK in Pulincunnu. The journey takes around 4-5 hours by road. You can also explore bus options from nearby bus stations to Pulincunnu.",
+      "Cochin International Airport (COK) is the closest airport to CUCEK, located about 130 km away. Taxis and airport transfer services are readily available at Cochin Airport to travel to CUCEK. The road journey is approximately 4-5 hours. Bus services may also be an option from hubs near the airport.",
+      "For air travel to CUCEK, Cochin International Airport (COK) is the most accessible airport, situated roughly 130 km from CUCEK. From the airport, taxis or pre-arranged transport are convenient for reaching CUCEK in about 4 to 5 hours. Bus services can also be considered from nearby locations to Pulincunnu.",
+      "The closest airport to CUCEK is Cochin International Airport (COK), which is around 130 km away. You can easily reach CUCEK via taxi or pre-booked transport services in about 4-5 hours. Alternatively, buses are available for a more economical option."
+    ]
+  },
+  "HOD CSE": {
+    "patterns": [
+      "Who is the HoD of CSE?",
+      "Name of CSE HoD",
+      "Research work of CSE HoD",
+      "Speciality of CSE HoD",
+      "Who is the Head of Department for CSE?",
+      "CSE department head",
+      "Head of CSE department",
+      "Name of CSE department head",
+      "CSE department HoD research",
+      "Who leads the CSE department?"
+    ],
+    "responses": [
+      "The Head of the CSE department is Dr. Preetha Mathew. Her research interests include Cryptography and Network Security.",
+      "Dr. Preetha Mathew is the HoD of Computer Science and Engineering at CUCEK. Her expertise lies in network security and cryptography.",
+      "CSE is headed by Dr. Preetha Mathew, who actively researches in Cryptography and Network Security. For more details, check out the CUCEK website.",
+      "Dr. Preetha Mathew is the Head of Department for CSE. You can visit the official CUCEK site to learn more about her work."
+    ]
+  },
+  "HOD IT": {
+    "patterns": [
+      "Who is the HoD of IT?",
+      "Name of IT HoD",
+      "Research work of IT HoD",
+      "Speciality of IT HoD",
+      "Who is the Head of Department for IT?",
+      "Head of IT department",
+      "IT department head",
+      "Name of IT department head",
+      "Who leads the IT department?"
+    ],
+    "responses": [
+      "The Head of the IT department is Dr. Jabir PK.",
+      "Dr. Jabir PK is the HoD of the Information Technology department at CUCEK.",
+      "IT is headed by Dr. Jabir PK. Visit the CUCEK website to know more about his work and achievements.",
+      "The Information Technology department is led by Dr. Jabir PK. You can check the website for more info."
+    ]
+  },
+  "HOD ECE": {
+    "patterns": [
+      "Who is the HoD of ECE?",
+      "Name of ECE HoD",
+      "Research work of ECE HoD",
+      "Speciality of ECE HoD",
+      "Who is the Head of Department for ECE?",
+      "Head of ECE department",
+      "Electronics department HoD",
+      "Who leads the ECE department?",
+      "Name of Electronics and Communication HoD"
+    ],
+    "responses": [
+      "The HoD of the ECE department is Dr. Anil Kumar.",
+      "Dr. Anil Kumar is the Head of Department for Electronics and Communication Engineering at CUCEK.",
+      "ECE is headed by Dr. Anil Kumar. You can visit the CUCEK website to know more about his academic contributions.",
+      "Dr. Anil Kumar leads the ECE department. More information is available on the official CUCEK portal."
+    ]
+  },
+  "HOD civil": {
+    "patterns": [
+      "Who is the HoD of Civil Engineering?",
+      "Name of Civil HoD",
+      "Research work of Civil HoD",
+      "Speciality of Civil HoD",
+      "Who is the Head of Department for Civil?",
+      "Head of Civil Engineering department",
+      "Civil department head",
+      "Name of Civil department head",
+      "Who leads the Civil department?"
+    ],
+    "responses": [
+      "The Head of the Civil Engineering department is Dr. Sunil Kumar.",
+      "Dr. Sunil Kumar is the HoD of the Civil Engineering department at CUCEK.",
+      "The Civil department is headed by Dr. Sunil Kumar. You can check the CUCEK website to know more about his profile.",
+      "Dr. Sunil Kumar leads the Civil Engineering department. Visit the CUCEK site for additional details."
+    ]
+  },
+  "HOD electrical": {
+    "patterns": [
+      "Who is the HoD of EEE?",
+      "Name of EEE HoD",
+      "Research work of EEE HoD",
+      "Speciality of EEE HoD",
+      "Who is the Head of Department for Electrical?",
+      "Head of Electrical Engineering department",
+      "EEE department head",
+      "Who leads the EEE department?",
+      "Name of Electrical department head"
+    ],
+    "responses": [
+      "The HoD of the EEE department is Mrs. Shiny Paul.",
+      "Mrs. Shiny Paul is the Head of Electrical and Electronics Engineering at CUCEK.",
+      "The EEE department is led by Mrs. Shiny Paul. Check the CUCEK website to explore her professional background.",
+      "Mrs. Shiny Paul serves as the Head of Department for EEE. You can learn more on the CUCEK official site."
+    ]
+  },
+  "Faculties_cse": {
+    "patterns": [
+      "How many faculties are there in CSE Department?",
+      "Number of faculties in CS Department",
+      "Names of CSE department faculties",
+      "Faculty list of CSE department",
+      "Who are the teachers in the CSE department?",
+      "CSE department faculty members",
+      "How many teachers are there in CSE?",
+      "CSE department professors",
+      "CSE faculty strength",
+      "Name and number of faculties in CSE department",
+      "Who teaches in CSE department",
+      "Who teaches in CS department"
+    ],
+    "responses": [
+      "There are 10 faculty members in the CSE department. Dr. Preetha Mathew is the Head of the Department.",
+      "The Computer Science and Engineering Department has 10 professors under the leadership of Dr. Preetha Mathew.",
+      "CSE at CUCEK has a strong faculty team of 10 members. The HoD is Dr. Preetha Mathew.",
+      "CUCEK’s CSE department is led by Dr. Preetha Mathew and consists of 10 faculty members.",
+      "There are currently 10 teaching staff in the CSE department. For more details, please visit the official CUCEK website."
+    ]
+  },
+  "Faculties_it": {
+    "patterns": [
+      "How many faculties are there in IT Department?",
+      "Number of faculties in IT",
+      "Names of IT department faculties",
+      "Who are the teachers in the IT department?",
+      "Faculty members of Information Technology department",
+      "IT department professors",
+      "IT department faculty list",
+      "IT faculty strength",
+      "Name and number of faculties in IT department",
+      "How many teachers are in Information Technology?",
+      "who teaches in IT department"
+    ],
+    "responses": [
+      "The IT department has 10 faculty members, and Dr. Jabir PK is the Head of the Department.",
+      "There are 10 professors in CUCEK’s Information Technology department, led by Dr. Jabir PK.",
+      "CUCEK’s IT department comprises 10 faculties under the guidance of Dr. Jabir PK as HoD.",
+      "A total of 10 faculty members teach in the IT department. The department is headed by Dr. Jabir PK.",
+      "There are 10 staff members in the IT department. You can find their details on the CUCEK website."
+    ]
+  },
+  "Faculties_eee": {
+    "patterns": [
+      "How many faculties are there in EEE Department?",
+      "Number of faculties in EEE",
+      "EEE faculty members",
+      "Who are the teachers in the EEE department?",
+      "Number of teachers in Electrical Engineering",
+      "Faculty list of EEE department",
+      "Names of Electrical department faculties",
+      "Electrical department professors",
+      "Name and number of faculties in EEE department",
+      "How many professors are in Electrical?",
+      "Faculty strength of EEE department",
+      "Teachers in EEE department",
+      "who teaches in EEE department"
+    ],
+    "responses": [
+      "There are 6 faculty members in the EEE department, with Mrs. Shiny Paul as the HoD.",
+      "EEE at CUCEK consists of 6 professors. Mrs. Shiny Paul heads the department.",
+      "The Electrical and Electronics Engineering department has 6 faculties, led by Mrs. Shiny Paul.",
+      "Currently, there are 6 faculty members in the EEE department. Visit the CUCEK site for detailed info.",
+      "The EEE department faculty team includes 6 members, and the Head of Department is Mrs. Shiny Paul."
+    ]
+  },
+  "Faculties_civil": {
+    "patterns": [
+      "How many faculties are there in Civil Department?",
+      "How many teachers are there in Civil?",
+      "How many faculties are there in CE Department?",
+      "Number of teachers in Civil Engineering",
+      "List of Civil Department faculties",
+      "Civil Department faculty details",
+      "Civil Department professors",
+      "Faculty names in Civil Engineering",
+      "Faculty list of CE Department",
+      "Who are the teachers in the Civil Department?",
+      "How many professors are in Civil?",
+      "Faculty strength in CE",
+      "Can you name the CE Department faculties?",
+      "Names of Civil Engineering teachers",
+      "Number of faculties in Civil Engineering department",
+      "Faculty members of CE department",
+      "CE department teaching staff",
+      "Teachers in the Civil Department",
+      "who teaches in CIVIL department",
+      "who teaches in CE department"
+    ],
+    "responses": [
+      "The Civil Engineering Department at CUCEK has a total of 5 faculty members. The Head of the Department is Dr. Sunil Kumar.",
+      "There are currently 5 dedicated faculty members in the Civil Engineering (CE) Department. Dr. Sunil Kumar serves as the HoD.",
+      "CUCEK’s Civil Department has 5 professors, led by Dr. Sunil Kumar as the Head of Department.",
+      "The CE Department at CUCEK consists of 5 faculty members. For detailed names and profiles, you can visit the official CUCEK website.",
+      "There are 5 teaching staff members in the Civil Engineering Department, including the HoD, Dr. Sunil Kumar. Visit the CUCEK site for more details."
+    ]
+  },
+  "Faculties_ece": {
+    "patterns": [
+      "How many faculties are there in ECE Department?",
+      "Number of faculties in ECE",
+      "ECE department faculty list",
+      "Who are the teachers in ECE?",
+      "ECE professors list",
+      "Faculty members of ECE department",
+      "ECE department teaching staff",
+      "Name and number of faculties in ECE department",
+      "How many professors in ECE?",
+      "Faculty strength in ECE",
+      "who teaches in ECE department"
+    ],
+    "responses": [
+      "The ECE department has 7 faculty members, led by Dr. Anil Kumar as the Head of Department.",
+      "CUCEK’s Electronics and Communication Engineering department consists of 7 faculties under Dr. Anil Kumar.",
+      "There are 7 professors in the ECE department. Dr. Anil Kumar is the HoD.",
+      "ECE at CUCEK has 7 faculty members. More details are available on the CUCEK website.",
+      "A total of 7 staff members work in the ECE department, headed by Dr. Anil Kumar."
+    ]
+  },
+  "NSS_info": {
+    "patterns": [
+      "What is NSS at CUCEK?",
+      "Tell me about NSS in CUCEK",
+      "NSS CUCEK activities",
+      "What does NSS do at CUCEK?",
+      "Cucek NSS team",
+      "NSS volunteering opportunities",
+      "How to join NSS in CUCEK?",
+      "National Service Scheme CUCEK",
+      "Role of NSS in CUCEK",
+      "Social work in CUCEK",
+      "NSS Kerala CUCEK",
+      "CUCEK NSS unit",
+      "NSS camps CUCEK",
+      "NSS club CUCEK",
+      "Who can join NSS CUCEK?"
+    ],
+    "responses": [
+      "NSS CUCEK is an active student organization focused on community service and social impact projects around the campus and nearby areas.",
+      "The National Service Scheme (NSS) at CUCEK encourages students to engage in social welfare activities and volunteer for meaningful causes.",
+      "NSS at CUCEK organizes events like cleanliness drives, blood donation camps, awareness programs, and rural outreach projects.",
+      "If you're interested in making a difference in society while studying, NSS CUCEK is the perfect platform to start volunteering.",
+      "Through NSS, CUCEK students contribute to the community and develop leadership, empathy, and a strong sense of social responsibility.",
+      "Want to be part of something impactful? Join the NSS unit at CUCEK and participate in various community service programs!"
+    ]
+  }
+}
